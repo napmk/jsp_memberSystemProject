@@ -28,7 +28,7 @@
 	<table>
 		<tr>
 			<td>
-				<form action="memberlist.jsp" method="post">
+				<form action="memberList.jsp" method="post">
 					<input type="submit" value="등록회원관리하기 >>">
 				</form>
 			</td>
